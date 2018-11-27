@@ -17,7 +17,7 @@ using Autodesk.Revit.UI;
 using RVTApplication = Autodesk.Revit.ApplicationServices.Application;
 using RVTDocument = Autodesk.Revit.DB.Document;
 
-namespace RevitRoutinesAddin
+namespace BARevitRoutines
 {
     public enum RequestId : int
     {

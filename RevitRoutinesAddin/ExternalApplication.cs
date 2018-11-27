@@ -18,7 +18,7 @@ using Autodesk.Revit.UI;
 using Autodesk.Revit.UI.Events;
 #endregion
 
-namespace RevitRoutinesAddin
+namespace BARevitRoutines
 {
     public class Application : IExternalApplication
     {
