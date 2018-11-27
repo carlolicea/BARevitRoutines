@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevitRoutinesAddin", "RevitRoutinesAddin\RevitRoutinesAddin.csproj", "{8E8C9777-33D9-4C16-AAF5-9E8DAA046EA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Revit2018|Any CPU = Revit2018|Any CPU
+		Revit2018|x64 = Revit2018|x64
+		Revit2019|Any CPU = Revit2019|Any CPU
+		Revit2019|x64 = Revit2019|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E8C9777-33D9-4C16-AAF5-9E8DAA046EA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E8C9777-33D9-4C16-AAF5-9E8DAA046EA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E8C9777-33D9-4C16-AAF5-9E8DAA046EA4}.Debug|x64.ActiveCfg = Debug|x64
+		{8E8C9777-33D9-4C16-AAF5-9E8DAA046EA4}.Debug|x64.Build.0 = Debug|x64
+		{8E8C9777-33D9-4C16-AAF5-9E8DAA046EA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E8C9777-33D9-4C16-AAF5-9E8DAA046EA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E8C9777-33D9-4C16-AAF5-9E8DAA046EA4}.Release|x64.ActiveCfg = Release|x64
+		{8E8C9777-33D9-4C16-AAF5-9E8DAA046EA4}.Release|x64.Build.0 = Release|x64
+		{8E8C9777-33D9-4C16-AAF5-9E8DAA046EA4}.Revit2018|Any CPU.ActiveCfg = Revit2018|Any CPU
+		{8E8C9777-33D9-4C16-AAF5-9E8DAA046EA4}.Revit2018|Any CPU.Build.0 = Revit2018|Any CPU
+		{8E8C9777-33D9-4C16-AAF5-9E8DAA046EA4}.Revit2018|x64.ActiveCfg = Revit2018|x64
+		{8E8C9777-33D9-4C16-AAF5-9E8DAA046EA4}.Revit2018|x64.Build.0 = Revit2018|x64
+		{8E8C9777-33D9-4C16-AAF5-9E8DAA046EA4}.Revit2019|Any CPU.ActiveCfg = Revit2019|Any CPU
+		{8E8C9777-33D9-4C16-AAF5-9E8DAA046EA4}.Revit2019|Any CPU.Build.0 = Revit2019|Any CPU
+		{8E8C9777-33D9-4C16-AAF5-9E8DAA046EA4}.Revit2019|x64.ActiveCfg = Revit2019|x64
+		{8E8C9777-33D9-4C16-AAF5-9E8DAA046EA4}.Revit2019|x64.Build.0 = Revit2019|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40E874C7-CBBC-49B9-B7BC-F83D404A9DC4}
+	EndGlobalSection
+EndGlobal

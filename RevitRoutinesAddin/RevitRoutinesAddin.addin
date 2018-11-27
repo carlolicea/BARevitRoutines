@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Application BARevitRoutines</Name>
+    <Assembly>RevitRoutinesAddin.dll</Assembly>
+    <FullClassName>RevitRoutinesAddin.Application</FullClassName>    
+    <ClientId>30402CF2-BA64-4FC8-AC99-BE8F22B719E7</ClientId>
+    <VendorId>BLDR</VendorId>
+    <VendorDescription>Boulder Associates Architects</VendorDescription>
+  </AddIn>
+</RevitAddIns>

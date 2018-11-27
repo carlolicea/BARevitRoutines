@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="RevitRoutinesAddin.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SfDrivePath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\boulderassociates.com\projects\sf</Value>
+    </Setting>
+    <Setting Name="CsvOutputPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\boulderassociates.com\projects\Boulder\0014.00 - Practice Technology Projects\BA BIM Data\Project Info Data</Value>
+    </Setting>
+    <Setting Name="DalDrivePath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\boulderassociates.com\projects\dallas</Value>
+    </Setting>
+    <Setting Name="OcDrivePath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\boulderassociates.com\projects\oc</Value>
+    </Setting>
+    <Setting Name="SacDrivePath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\boulderassociates.com\projects\sac</Value>
+    </Setting>
+    <Setting Name="BldDrivePath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\boulderassociates.com\projects\boulder</Value>
+    </Setting>
+    <Setting Name="SQLServerName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">tableau\\sqlexpress,1433</Value>
+    </Setting>
+    <Setting Name="SQLServerUser" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sa</Value>
+    </Setting>
+    <Setting Name="SQLServerPwd" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Boulder4747</Value>
+    </Setting>
+    <Setting Name="BABimDbName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">babim</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
